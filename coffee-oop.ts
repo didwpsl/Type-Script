@@ -5,6 +5,8 @@
       hasMilk: boolean;
     }; // 데이터 
 
+    
+
     class CoffeeMaker{ //클래스 
     static BEANS_GRAM_PER_SHOT: number = 7; //class level 
     coffeeBeans: number = 0; // instance (object) level
